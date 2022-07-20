@@ -1,0 +1,9 @@
+/public/
+/node_modules/
+# /dist/
+/*.js
+/src/router/
+/src/util/
+/src/mixins/
+# /test/unit/coverage/
+# /tests/
